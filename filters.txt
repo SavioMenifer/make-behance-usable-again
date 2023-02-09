@@ -1,0 +1,29 @@
+! un-sticky the footer
+www.behance.net##.InfinityFooter__global-selector:style(position: static !important)
+www.behance.net##body.logged-in:style(overflow: hidden !important)
+www.behance.net##body.logged-out:style(overflow: hidden !important)
+
+! un-sticky the navbar
+www.behance.net##.PrimaryNav-fixed-IXr:style(position: static !important)
+www.behance.net###top-panel:style(padding-top: 0 !important)
+www.behance.net##.PrimaryNav-transparentStrip-u4D:style(height: 55px !important; padding-bottom: 0 !important)
+
+! un-sticky the search panel
+www.behance.net##.Search-header-DFv:style(position: static !important)
+www.behance.net##.Search-content-Gq1:style(padding-top: 0 !important)
+
+! remove sign up nags
+www.behance.net##.PrimaryNav-tooltipWrapper-ffQ.Tooltip-wrapper-Uzv
+www.behance.net##.Popup-popup-Hub
+
+! remove ads for adobe stock and creative cloud
+www.behance.net##[class*="StockRail-rail-"]
+www.behance.net##[class*="StockRail-rail-"]:xpath(preceding-sibling::div):style(margin-bottom: 0px !important)
+www.behance.net##[class*="CreativeCloudRow-"]
+www.behance.net##[class*="CreativeCloudRow-"]:xpath(preceding-sibling::div):style(margin-bottom: 0px !important)
+
+! remove cookie banner
+www.behance.net###onetrust-banner-sdk
+
+! remove login with google popup
+www.behance.net###google-login-container
