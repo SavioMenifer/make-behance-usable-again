@@ -29,3 +29,6 @@ www.behance.net###google-login-container
 ! hire page fixes
 www.behance.net##.Hire-contentHeading-eyb:style(position: relative !important; top: 0 !important)
 www.behance.net##.Hire-accordion-SF_:style(top: 0 !important; max-height: 100vh !important)
+
+! jobs page fixes
+www.behance.net##.JobList-searchContainer-ouD:style(position: relative !important; top: 0 !important)
