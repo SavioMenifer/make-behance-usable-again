@@ -25,3 +25,7 @@ www.behance.net###onetrust-banner-sdk
 
 ! remove login with google popup
 www.behance.net###google-login-container
+
+! hire page fixes
+www.behance.net##.Hire-contentHeading-eyb:style(position: relative; top: 0)
+www.behance.net##.Hire-accordion-SF_:style(top: 0; max-height: 100vh)
