@@ -1,7 +1,5 @@
 ! un-sticky the footer
-www.behance.net##.InfinityFooter__global-selector:style(position: static !important)
-www.behance.net##body.logged-in:style(overflow: hidden !important)
-www.behance.net##body.logged-out:style(overflow: hidden !important)
+www.behance.net##.InfinityFooter__global-selector:style(position: static !important; overflow: hidden)
 
 ! un-sticky the navbar
 www.behance.net##.PrimaryNav-fixed-IXr:style(position: static !important)
