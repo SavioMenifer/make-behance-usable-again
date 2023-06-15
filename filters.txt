@@ -9,6 +9,8 @@ www.behance.net##.PrimaryNav-transparentStrip-u4D:style(height: 55px !important;
 ! un-sticky the search panel
 www.behance.net##.Search-header-DFv:style(position: static !important)
 www.behance.net##.Search-content-Gq1:style(padding-top: 0 !important)
+www.behance.net##.SearchLegacy-header-Wdn:style(position: static !important)
+www.behance.net##.SearchLegacy-content-aGc:style(padding-top: 0 !important)
 
 ! remove sign up nags
 www.behance.net##.PrimaryNav-tooltipWrapper-ffQ.Tooltip-wrapper-Uzv
